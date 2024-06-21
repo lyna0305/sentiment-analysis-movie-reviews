@@ -44,9 +44,3 @@ Please download the Rotten Tomatoes dataset from [Hugging Face](https://huggingf
 This project demonstrates the application of various machine learning and transformer-based models to sentiment analysis on movie reviews. Our findings provide insights into the effectiveness of different techniques and highlight the challenges and potential areas for further research. The methodologies explored hold promise for enhancing sentiment analysis, which can be invaluable to businesses and consumers alike.
 
 For more detailed information, please refer to the `NLP_Coursework.pdf` included in this repository.
-
-
-## Getting the Dataset
-
-## Conclusion
-
