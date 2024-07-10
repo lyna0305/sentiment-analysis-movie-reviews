@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This study focuses on performing sentiment analysis on movie reviews from ['Rotten Tomatoes'](https://www.rottentomatoes.com/) to determine whether reviews express positive or negative sentiments. By analysing these sentiments, we aim to assist both individual users and movie businesses in accurately gauging public opinion. Our research question revolves around how various feature extraction techniques and classification models impact the accuracy and efficiency of supervised learning models in determining sentiments conveyed in movie reviews. Through this exploration, we aim to showcase the effectiveness of different techniques in achieving high performance in sentiment analysis.
+This study focuses on performing sentiment analysis on movie reviews from [Rotten Tomatoes](https://www.rottentomatoes.com/) to determine whether reviews express positive or negative sentiments. By analysing these sentiments, we aim to assist both individual users and movie businesses in accurately gauging public opinion. Our research question revolves around how various feature extraction techniques and classification models impact the accuracy and efficiency of supervised learning models in determining sentiments conveyed in movie reviews. Through this exploration, we aim to showcase the effectiveness of different techniques in achieving high performance in sentiment analysis.
 
 ## Objectives
 
