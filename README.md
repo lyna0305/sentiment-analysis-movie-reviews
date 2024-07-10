@@ -1,10 +1,8 @@
 # Sentiment Analysis of Movie Reviews
 
-This repository contains a project submitted for the MSc Data Science 'Natural Language Processing' module at City, University of London.
-
 ## Project Overview
 
-This study focuses on employing sentiment analysis on movie reviews using the Rotten Tomatoes dataset from Hugging Face. By determining whether reviews express positive or negative sentiments, we aim to assist both individual users and movie businesses in gauging public opinion accurately. Our research question revolves around how various feature extraction techniques and classification models impact the accuracy and efficiency of supervised learning models in determining sentiments conveyed in movie reviews. Through this exploration, we aim to showcase the effectiveness of different techniques in achieving high performance in sentiment analysis.
+This study focuses on performing sentiment analysis on movie reviews from 'Rotten Tomatoes' to determine whether reviews express positive or negative sentiments. By analysing these sentiments, we aim to assist both individual users and movie businesses in accurately gauging public opinion. Our research question revolves around how various feature extraction techniques and classification models impact the accuracy and efficiency of supervised learning models in determining sentiments conveyed in movie reviews. Through this exploration, we aim to showcase the effectiveness of different techniques in achieving high performance in sentiment analysis.
 
 ## Objectives
 
@@ -28,7 +26,7 @@ Key findings include:
 ## Repository Contents
 
 - `All python code.ipynb`: Jupyter Notebook containing all the Python code for the project.
-- `NLP Coursework.pdf`: Final report detailing the analysis and findings.
+- `Report.pdf`: Final report detailing the analysis and findings.
 - `Supplementary Materials.pdf`: Supplementary material not included in the report.
 - `TFIDF_neg.pkl`: Pre-trained TF-IDF model with negation handling.
 - `vectorizer_neg.pkl`: Pre-trained vectorizer with negation handling.
@@ -43,4 +41,4 @@ Please download the Rotten Tomatoes dataset from [Hugging Face](https://huggingf
 ## Conclusion
 This project demonstrates the application of various machine learning and transformer-based models to sentiment analysis on movie reviews. Our findings provide insights into the effectiveness of different techniques and highlight the challenges and potential areas for further research. The methodologies explored hold promise for enhancing sentiment analysis, which can be invaluable to businesses and consumers alike.
 
-For more detailed information, please refer to the `NLP_Coursework.pdf` included in this repository.
+For more detailed information, please refer to the `Report.pdf` included in this repository.
